@@ -1,5 +1,4 @@
 # Volatility Skew Analysis
-**Author: Jiaheng (John) Zhou**  
 
 ## Overview
 This program offers an interactive dashboard designed to analyze options volatility skew and its historical percentile rank. Users can select a specific ticker, choose between calls or puts, and adjust various parameters to visualize volatility skew over time. This visualization helps in identifying potential trading opportunities with ease. The dashboard supports multiple plots on the same page, enabling users to compare and assess market patterns more effectively.
